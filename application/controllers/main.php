@@ -12,6 +12,10 @@ class main extends CI_Controller {
 	$this->load->view('404');	
 	}
 
+	function login(){
+	$this->load->view('login');	
+	}
+
 }
 
 /* End of file main.php */
