@@ -99,6 +99,14 @@ a:hover{
 	width: 30;
 }
 
+#home h1{
+	font-weight: 500;
+}
+
+#portfolio{
+	width: 100%;
+}
+
 /* Custom page CSS
 -------------------------------------------------- */
 /* Not required for template or sticky footer method. */
@@ -167,4 +175,3 @@ a:hover{
 	}
 
 }
-
